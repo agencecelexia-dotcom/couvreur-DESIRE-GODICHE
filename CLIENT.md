@@ -3,32 +3,32 @@
 
 ## IDENTITE
 
-NOM_ENTREPRISE: "Nom de l'Entreprise"
-NOM_LEGAL: "Nom de l'Entreprise SARL"
-SIRET: "000 000 000 00000"
+NOM_ENTREPRISE: "DG COUVERTURE"
+NOM_LEGAL: "GODICHE DESIRE"
+SIRET: "993 402 130"
 METIER: "couvreur"
 METIER_LABEL: "Couvreur"
 GENRE_DIRIGEANT: "M"
-PRENOM_DIRIGEANT: "Prenom"
-NOM_DIRIGEANT: "Nom"
-DIPLOME_DIRIGEANT: "couvreur-zingueur diplome, compagnon du devoir"
-ANNEE_CREATION: "2010"
-ANNEES_EXPERIENCE: "15"
+PRENOM_DIRIGEANT: "DESIRE"
+NOM_DIRIGEANT: "GODICHE"
+DIPLOME_DIRIGEANT: "Artisan couvreur"
+ANNEE_CREATION: "2025"
+ANNEES_EXPERIENCE: "0"
 
 ## CONTACT
 
-TELEPHONE: "00 00 00 00 00"
-EMAIL: "contact@votre-domaine.fr"
-ADRESSE: "1 Rue de la Paix"
-CODE_POSTAL: "00000"
-VILLE: "Votre Ville"
-DEPARTEMENT: "Votre Departement"
-REGION: "Votre Region"
+TELEPHONE: "06 24 76 35 78"
+EMAIL: "contact@dgcouverture.fr"
+ADRESSE: "10 Rue de Faronville"
+CODE_POSTAL: "77310"
+VILLE: "BOISSISE-LE-ROI"
+DEPARTEMENT: "Seine-et-Marne"
+REGION: "Île-de-France"
 PAYS: "France"
 HORAIRES: "Lun-Ven: 8h00-18h00, Sam: 9h00-13h00"
-ZONE_INTERVENTION: "Votre ville et region"
-LATITUDE: "46.603354"
-LONGITUDE: "1.888334"
+ZONE_INTERVENTION: "Île-de-France"
+LATITUDE: "48.5217"
+LONGITUDE: "2.4085"
 
 ## BRANDING
 
@@ -42,19 +42,19 @@ FONT_CORPS: "DM Sans"
 
 ## SEO
 
-DOMAINE: "www.votre-domaine.fr"
-META_TITLE: "Nom de l'Entreprise | Couvreur a Votre Ville"
-META_DESCRIPTION: "Couvreur a Votre Ville. Couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit."
-META_KEYWORDS: "couvreur, couverture, toiture, renovation toiture, zinguerie, isolation toiture, depannage toiture, couvreur professionnel"
+DOMAINE: "www.dgcouverture.fr"
+META_TITLE: "DG COUVERTURE | Couvreur à Boissise-le-Roi"
+META_DESCRIPTION: "Couvreur professionnel à Boissise-le-Roi (77310). Couverture neuve, rénovation de toiture, zinguerie, isolation. Intervention rapide, devis gratuit."
+META_KEYWORDS: "couvreur, couverture, toiture, Boissise-le-Roi, Seine-et-Marne, Île-de-France, rénovation toiture, zinguerie, isolation toiture, dépannage toiture, couvreur professionnel"
 SCHEMA_TYPE: "RoofingContractor"
 
 ## CONTENU
 
-SLOGAN: "Votre Slogan Ici"
+SLOGAN: "Votre Toiture - Notre Passion"
 ACCROCHE_HERO: "Votre Toiture — Entre de Bonnes Mains"
-DESCRIPTION_ENTREPRISE: "Votre description d'entreprise. Couverture, renovation, zinguerie et isolation — un savoir-faire artisanal au service de votre toiture."
-DESCRIPTION_FOOTER: "Votre description courte pour le footer du site."
-DESCRIPTION_APROPOS: "Fondee par Prenom Nom, votre entreprise est nee d'une passion profonde pour les metiers de la couverture et du batiment."
+DESCRIPTION_ENTREPRISE: "DG COUVERTURE est votre artisan couvreur à Boissise-le-Roi, en Seine-et-Marne. Depuis 2025, nous intervenons sur toute l'Île-de-France pour tous vos besoins de couverture : couverture neuve, rénovation, zinguerie, isolation thermique et dépannage d'urgence. Un savoir-faire artisanal au service de votre toiture."
+DESCRIPTION_FOOTER: "Artisan couvreur professionnel basé à Boissise-le-Roi en Île-de-France. Couverture neuve, rénovation, zinguerie, isolation et dépannage urgent."
+DESCRIPTION_APROPOS: "Fondée par Désiré Godiche, DG COUVERTURE est née d'une passion profonde pour le métier de couvreur et du désir de proposer un travail de qualité en Île-de-France."
 
 ## SERVICES
 
